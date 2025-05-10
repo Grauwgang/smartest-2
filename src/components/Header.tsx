@@ -24,7 +24,7 @@ const Header: React.FC = () => {
     >
       <div className="container mx-auto px-6 flex justify-between items-center">
         <div className="flex items-center">
-          <img src="/images/logotransp.png" alt="Logo" className="h-8 w-8" />
+          <img src="/image/logotransp.png" alt="Logo" className="h-8 w-8" />
         </div>
         
         <nav className="hidden md:flex items-center space-x-6">
